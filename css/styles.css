@@ -1,0 +1,22 @@
+* {
+    font-family: ABeeZee;
+    box-sizing: border-box;
+}
+
+#main-heading {
+    margin-top: 10px;
+}
+
+#main-element {
+    background-color: #fff2b2;
+    height: 750px;
+    margin-top: 10px;
+}
+
+section h2 {
+    text-align: center;
+    margin: 10px;
+}
+section p {
+    padding: 10px;
+}
